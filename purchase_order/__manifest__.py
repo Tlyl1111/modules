@@ -1,13 +1,13 @@
 {
-    'name': 'Purchase Logistic',
+    'name': 'Purchase Order',
     'version': '1.1',
-    'summary': 'Logistic',
+    'summary': 'Purchase',
     'author': 'Linh',
     'description': ''' ,
     'license': 'LGPL-3',
 
     ''',
-    'website': 'https://www.youtube.com/watch?v=KaROApHbMjI&list=PLan8s2_lZPLqccelhcSJuifsoVtY7H3wf&index=13',
+    'website': '',
     'depend': [],
     'data': [
 
